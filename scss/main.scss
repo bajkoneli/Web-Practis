@@ -1,0 +1,16 @@
+@import './config';
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Dosis', sans-serif;
+    line-height: 1.6;
+    background: $light-color;
+}
+
+a {
+    text-decoration: none;
+ 
